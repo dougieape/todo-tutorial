@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/todo-tutorial/static/css/main.a36d0459.chunk.css",
+    "main.js": "/todo-tutorial/static/js/main.7c5ec046.chunk.js",
+    "main.js.map": "/todo-tutorial/static/js/main.7c5ec046.chunk.js.map",
+    "runtime-main.js": "/todo-tutorial/static/js/runtime-main.60d73601.js",
+    "runtime-main.js.map": "/todo-tutorial/static/js/runtime-main.60d73601.js.map",
+    "static/js/2.3b9cc9aa.chunk.js": "/todo-tutorial/static/js/2.3b9cc9aa.chunk.js",
+    "static/js/2.3b9cc9aa.chunk.js.map": "/todo-tutorial/static/js/2.3b9cc9aa.chunk.js.map",
+    "static/js/3.106879af.chunk.js": "/todo-tutorial/static/js/3.106879af.chunk.js",
+    "static/js/3.106879af.chunk.js.map": "/todo-tutorial/static/js/3.106879af.chunk.js.map",
+    "index.html": "/todo-tutorial/index.html",
+    "static/css/main.a36d0459.chunk.css.map": "/todo-tutorial/static/css/main.a36d0459.chunk.css.map",
+    "static/js/2.3b9cc9aa.chunk.js.LICENSE.txt": "/todo-tutorial/static/js/2.3b9cc9aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60d73601.js",
+    "static/js/2.3b9cc9aa.chunk.js",
+    "static/css/main.a36d0459.chunk.css",
+    "static/js/main.7c5ec046.chunk.js"
+  ]
+}
